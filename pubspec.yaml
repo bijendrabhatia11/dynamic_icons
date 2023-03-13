@@ -1,8 +1,9 @@
 name: dynamic_icons
-description: A new Flutter project.
+description: A package for ios and android to create dynamic icons just using a icon name.
 version: 0.0.1
-homepage:
-
+homepage: https://github.com/bijendrabhatia11/dynamic_icons.git
+authors:
+  - Bijendra Singh (bijendra.bhatia11@gmail.com)
 environment:
   sdk: '>=2.18.5 <3.0.0'
   flutter: ">=1.17.0"
